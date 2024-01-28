@@ -11,6 +11,6 @@
 <br>
 Nous intervenons dans les domaines du design UX/UI et développement web notamment. Notre approche souple et agile se déploie sur divers projets, plaçant le client au cœur de sa transformation digitale. Forts de notre expérience, nous assurons un accompagnement complet pour des expériences digitales sur-mesure, performantes et durables.
 
-- [L'agence](https://esilab.fr)
-- [L'équipe](https://esilab.fr.dev.esilab.fr/lagence)
-- [Projets](https://esilab.fr.dev.esilab.fr/projets)
+<!-- - [L'agence](https://esilab.fr) -->
+<!-- - [L'équipe](https://esilab.fr.dev.esilab.fr/lagence) -->
+<!-- - [Projets](https://esilab.fr.dev.esilab.fr/projets) -->
