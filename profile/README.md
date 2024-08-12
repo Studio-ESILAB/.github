@@ -1,7 +1,7 @@
 <a href="https://esilab.fr" target="_blank">
     <picture>
-        <source align="right" media="(prefers-color-scheme: dark)" srcset="https://esilab.fr.dev.esilab.fr/site/wp-content/themes/esilab2024/esilab-logo-light.svg">
-        <img align="right" alt="Esilab, créateurs de sites web sur-mesure" height="52" src="https://esilab.fr.dev.esilab.fr/site/wp-content/themes/esilab2024/dist/assets/images/logos/esilab-logo.svg">
+        <source align="right" media="(prefers-color-scheme: dark)" srcset="https://esilab.fr/esilab-logo-light.svg">
+        <img align="right" alt="Esilab, créateurs de sites web sur-mesure" height="52" src="https://esilab.fr/esilab-logo.svg">
     </picture>
 </a>
 
